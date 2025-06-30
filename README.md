@@ -1,2 +1,2 @@
 # py-salientart
-This repo provides an implementation of SalientART clustering method.
+This repo provides an implementation of SalientFuzzyART clustering method.
